@@ -28,6 +28,12 @@ OctoAcme's project management approach is designed to support cross-functional d
 - Risk register and dependency tracking
 - Status updates, release notes, and retrospective action items
 
+### Communication Cadence
+- Weekly sync between PM and Product Manager
+- Twice-weekly standups for the delivery team (or as agreed by the team)
+- Monthly stakeholder updates
+- Ad-hoc escalations following the escalation path: Team → PM → Product Lead → Sponsor
+
 ## Document Index
 
 | Document | Purpose |
@@ -42,8 +48,8 @@ OctoAcme's project management approach is designed to support cross-functional d
 | [OctoAcme Personas](./octoacme-roles-and-personas.md) | Defines the key project roles, responsibilities, goals, and communication patterns used across the docs. |
 
 ## How to Use This Folder
-- Start with the overview for the big picture.
+- Start with the [overview](./octoacme-project-management-overview.md) for the big picture.
 - Use the lifecycle-specific guides as you move from initiation to release.
-- Reference the risk and communication guide throughout the project, not just at the start.
-- Use the personas document to clarify ownership and expected collaboration patterns.
+- Reference the [risk and communication guide](./octoacme-risks-and-communication.md) throughout the project, not just at the start.
+- Use the [personas document](./octoacme-roles-and-personas.md) to clarify ownership and expected collaboration patterns.
 - Add validated updates here so the docs remain the shared source of truth for project execution.
